@@ -14,7 +14,7 @@
     <div class="footer">
       <router-link to="/admin">Admin</router-link>
       <div>
-        <a href="google.com">Github Repository</a>
+        <a href="https://github.com/Ammonsh/Creative-Project-4.git">Github Repository</a>
       </div>
     </div>
   </div>
